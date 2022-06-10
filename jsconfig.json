@@ -1,0 +1,11 @@
+{
+    "typeAcquisition": {
+        "include": [
+            "jquery",
+            "javascript",
+            "html",
+            "css"
+        ]
+    }
+
+}
